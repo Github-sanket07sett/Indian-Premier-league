@@ -12,41 +12,16 @@ FROM batting_summary
 GROUP BY batsmanName;
 
 
-#top order batter stike rate
-select batsmanName,(sum(runs)/sum(balls))*100 as Strike_rate  from batting_summary 
+# stike rate
+select batsmanName,(sum(runs)/sum(balls))*100 as Strike_rate,playingRole  from batting_summary
 inner join players 
 on batting_summary.batsmanName=players.`name` 
-where playingRole ='Top Order batter'
-group by batsmanName
+where playingRole in('Top Order batter','Middle order Batter','All rounder','Wicketkeeper','Bowler')
+group by batsmanName,playingRole
 having sum(balls)>=60
 order by Strike_rate desc limit 10;
 
-#middle order Batter strike rate
-select batsmanName,(sum(runs)/sum(balls))*100 as Strike_rate  from batting_summary 
-inner join players 
-on batting_summary.batsmanName=players.`name` 
-where playingRole = 'Middle order Batter'
-group by batsmanName
-having sum(balls)>=60
-order by Strike_rate desc limit 10;
 
-#all rounder strike rate
-select batsmanName,(sum(runs)/sum(balls))*100 as Strike_rate  from batting_summary 
-inner join players 
-on batting_summary.batsmanName=players.`name` 
-where playingRole ='All rounder'
-group by batsmanName
-having sum(balls)>=60
-order by Strike_rate desc limit 10;
-
-#top 10 wicketkeeper strike rate
-select batsmanName,(sum(runs)/sum(balls))*100 as Strike_rate  from batting_summary 
-inner join players 
-on batting_summary.batsmanName=players.`name` 
-where playingRole ='Wicketkeeper'
-group by batsmanName
-having sum(balls)>=60
-order by Strike_rate desc limit 10;
 
 #top 10 batsman  w.r.t batting average
 SELECT batsmanName,(sum(runs)/ COUNT(CASE WHEN `out/not_out`  = 'out' THEN 1 END)) as batting_average,playingRole
@@ -62,7 +37,7 @@ SELECT distinct(batsmanName),((sum(`4s`)*4+sum(`6s`)*6)/sum(runs))*100 as total_
 from `ipl`.`batting_summary`
 inner join players
 on batting_summary.batsmanName=players.`name` 
-where playingRole in ('Top Order batter','Middle order Batter','All rounder','Wicketkeeper')
+where playingRole in ('Top Order batter','Middle order Batter','All rounder','Wicketkeeper','Bowler')
 group by batsmanName,playingRole 
 having sum(balls)>60
 order by total_boundary_percentage desc limit 5;
@@ -107,7 +82,6 @@ order by sum(wickets) desc
 
 #total wins in last 3 years
 SELECT winner,count(`winner`) as total_wins FROM `ipl`.`match summary` group by winner order by total_wins desc;
-
 
 
 

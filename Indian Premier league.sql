@@ -121,6 +121,16 @@ having sum(overs)*6>=60
 order by sum(wickets) desc
 ;
 
+#bowling average by each year for particular bowler
+select bowlerName,round((sum(runs)/sum(wickets)),2) as Bowling_avg,sum(wickets) AS TOTAL_WICKETS from bowling_summary 
+inner join `ipl`.`match summary1` 
+on bowling_summary.match_id=`ipl`.`match summary1`.match_id
+where  `year` =2022
+group by  bowlerName 
+having sum(overs)*6>=60
+order by  Bowling_avg asc limit 10;
+
+
 #total wins in last 3 years
 SELECT winner,count(`winner`) as total_wins FROM `ipl`.`match summary1` group by winner order by total_wins desc;
 

@@ -5,6 +5,14 @@ select * from batting_summary;
 # most runs in last 3 ipl
 SELECT batsmanName,sum(runs) as total_runs FROM batting_summary group by batsmanName order by total_runs desc limit 10;
 
+
+#most wickets by bowlingstyle
+select bowlingStyle,sum(wickets) as Total_wickets  from bowling_summary inner join players
+on bowling_summary.bowlerName= `players`.`name`
+where bowlingStyle in('Right arm Fast','Right arm Fast Medium','Right arm Medium fast')
+group by bowlingStyle order by Total_wickets ; 
+
+
 #most runs By Playing Role
 SELECT playingRole,sum(runs) as total_runs FROM batting_summary 
 inner join players

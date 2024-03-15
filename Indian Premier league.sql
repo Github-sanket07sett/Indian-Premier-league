@@ -5,7 +5,11 @@ select * from batting_summary;
 # most runs in last 3 ipl
 SELECT batsmanName,sum(runs) as total_runs FROM batting_summary group by batsmanName order by total_runs desc limit 10;
 
-
+#highest run scorer in each year
+SELECT batsmanName,sum(runs) as total_runs FROM batting_summary inner join `ipl`.`match summary1` 
+on batting_summary.match_id=`ipl`.`match summary1`.match_id
+where `year`= 2022 group by batsmanName order by total_runs desc limit 10;
+ 
 #most wickets by bowlingstyle
 select bowlingStyle,sum(wickets) as Total_wickets  from bowling_summary inner join players
 on bowling_summary.bowlerName= `players`.`name`

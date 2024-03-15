@@ -84,6 +84,10 @@ select batsmanName,sum(`4s`) as total_fours,sum(`6s`) as total_sixes from  `ipl`
 # top 10 wicket taker
 SELECT bowlerName,sum(`wickets`) as total_wickets FROM `ipl`.`bowling_summary` group by bowlerName order by total_wickets desc limit 10;
 
+# most wickets in each year
+SELECT bowlerName,sum(wickets) as total_wickets FROM bowling_summary inner join `ipl`.`match summary1` 
+on bowling_summary.match_id=`ipl`.`match summary1`.match_id
+where `year`= 2022 group by bowlerName order by total_wickets desc limit 10;
 
 # top 10 bowlers with most dot ball percentage
 SELECT bowlerName,

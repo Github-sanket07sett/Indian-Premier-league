@@ -1,7 +1,12 @@
 show databases;
 use ipl;
 
+ #won_by biggest margin_by each team 
+select max(margin), `year`, `won_by`
+ FROM `ipl`.`match summary1` where `won_by`='run' and winner='RCB' group by `year`;
+
 select * from batting_summary;
+
 # most runs in last 3 ipl
 SELECT batsmanName,sum(runs) as total_runs FROM batting_summary group by batsmanName order by total_runs desc limit 10;
 

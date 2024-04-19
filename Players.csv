@@ -1,0 +1,293 @@
+name,team,battingStyle,bowlingStyle,playingRole
+RuturajGaikwad,CSK,Right hand Bat,Right arm Offbreak,Top Order Batter
+FafduPlessis,CSK,Right hand Bat,Legbreak,Middle order Batter
+RobinUthappa,CSK,Right hand Bat,Right arm Medium,Top Order Batter
+MoeenAli,CSK,Left hand Bat,Right arm Offbreak,All rounder
+ShubmanGill,KKR,Right hand Bat,Right arm Offbreak,Top Order Batter
+VenkateshIyer,KKR,Left hand Bat,Right arm Medium,All rounder
+NitishRana,KKR,Left hand Bat,"Right arm Medium, Right arm Offbreak, Legbreak",Middle order Batter
+SunilNarine,KKR,Left hand Bat,Right arm Offbreak,All rounder
+EoinMorgan,KKR,Left hand Bat,Right arm Medium,Middle order Batter
+DineshKarthik,KKR,Right hand Bat,Right arm Offbreak,Wicketkeeper
+ShakibAlHasan,KKR,Left hand Bat,Slow Left arm Orthodox,All rounder
+RahulTripathi,KKR,Right hand Bat,Right arm Medium,Top order Batter
+LockieFerguson,KKR,Right hand Bat,Right arm Fast,Bowler
+ShivamMavi,KKR,Right hand Bat,Right arm Fast medium,Bowler
+VarunChakravarthy,KKR,Right hand Bat,Legbreak Googly,Bowler
+DeepakChahar,CSK,Right hand Bat,Right arm Medium,Bowler
+JoshHazlewood,CSK,Left hand Bat,Right arm Fast medium,Bowler
+ShardulThakur,CSK,Right hand Bat,Right arm Medium,Bowler
+DwayneBravo,CSK,Right hand Bat,Right arm Medium,All rounder
+RavindraJadeja,CSK,Left hand Bat,Slow Left arm Orthodox,All rounder
+PrithviShaw,DC,Right hand Bat,Right arm Offbreak,Top Order Batter
+ShikharDhawan,DC,Left hand Bat,Right arm Offbreak,Top Order Batter
+MarcusStoinis,DC,Right hand Bat,Right arm Medium,All rounder
+ShreyasIyer,DC,Right hand Bat,"Right arm Offbreak, Legbreak Googly",Top order Batter
+RishabhPant,DC,Left hand Bat,Not Bowling,Wicketkeeper
+ShimronHetmyer,DC,Left hand Bat,Not Bowling,Top order Batter
+AxarPatel,DC,Left hand Bat,Slow Left arm Orthodox,All rounder
+AnrichNortje,DC,Right hand Bat,Right arm Fast,Bowler
+RavichandranAshwin,DC,Right hand Bat,Right arm Offbreak,All rounder
+AveshKhan,DC,Right hand Bat,Right arm Fast medium,Bowler
+KagisoRabada,DC,Left hand Bat,Right arm Fast,Bowler
+DevduttPadikkal,RCB,Left hand Bat,Right arm Offbreak,Top order Batter
+ViratKohli,RCB,Right hand Bat,Right arm Medium,Top order Batter
+SrikarBharat,RCB,Right hand Bat,Not Bowling,Wicketkeeper
+GlennMaxwell,RCB,Right hand Bat,Right arm Offbreak,All rounder
+ABdeVilliers,RCB,Right hand Bat,Right arm Medium,Wicketkeeper
+ShahbazAhmed,RCB,Left hand Bat,Slow Left arm Orthodox,All rounder
+DanChristian,RCB,Right hand Bat,Right arm Fast medium,All rounder
+HarshalPatel,RCB,Right hand Bat,Right arm Medium,Bowler
+GeorgeGarton,RCB,Left hand Bat,Left arm Fast,All rounder
+MohammedSiraj,RCB,Right hand Bat,Right arm Fast,Bowler
+YuzvendraChahal,RCB,Right hand Bat,Legbreak Googly,Bowler
+TomCurran,DC,Right hand Bat,Right arm Fast medium,All rounder
+AmbatiRayudu,CSK,Right hand Bat,Right arm Offbreak,Middle order Batter
+MSDhoni,CSK,Right hand Bat,Right arm Medium,Wicketkeeper
+RipalPatel,DC,Right hand Bat,Right arm Medium fast,Middle order Batter
+RohitSharma,MI,Right hand Bat,Right arm Offbreak,Top order Batter
+IshanKishan,MI,Left hand Bat,Not Bowling,Wicketkeeper
+HardikPandya,MI,Right hand Bat,Right arm Medium fast,All rounder
+KieronPollard,MI,Right hand Bat,Right arm Medium,All rounder
+SuryakumarYadav,MI,Right hand Bat,"Right arm Medium, Right arm Offbreak",Top Order Batter
+JamesNeesham,MI,Left hand Bat,Right arm Medium fast,All rounder
+KrunalPandya,MI,Left hand Bat,Slow Left arm Orthodox,All rounder
+NathanCoulter-Nile,MI,Right hand Bat,Right arm Fast,All rounder
+PiyushChawla,MI,Left hand Bat,Legbreak,All rounder
+JaspritBumrah,MI,Right hand Bat,Right arm Fast,Bowler
+TrentBoult,MI,Right hand Bat,Left arm Fast medium,Bowler
+JasonRoy,SRH,Right hand Bat,Not Bowling,Top Order Batter
+AbhishekSharma,SRH,Left hand Bat,Slow Left arm Orthodox,All rounder
+ManishPandey,SRH,Right hand Bat,Right arm Medium,Top order Batter
+MohammadNabi,SRH,Right hand Bat,Right arm Offbreak,All rounder
+AbdulSamad,SRH,Right hand Bat,Legbreak,Middle Order Batter
+PriyamGarg,SRH,Right hand Bat,Right arm Medium,Top order Batter
+JasonHolder,SRH,Right hand Bat,Right arm Medium fast,All rounder
+RashidKhan,SRH,Right hand Bat,Legbreak Googly,All rounder
+WriddhimanSaha,SRH,Right hand Bat,Not Bowling,Wicketkeeper
+SiddarthKaul,SRH,Right hand Bat,Right arm Medium,Bowler
+UmranMalik,SRH,Right hand Bat,Right arm Fast,Bowler
+YashasviJaiswal,RR,Left hand Bat,Legbreak,Top Order Batter
+LiamLivingstone,RR,Right hand Bat,"Right arm Offbreak, Legbreak",All rounder
+SanjuSamson,RR,Right hand Bat,Not Bowling,Wicketkeeper
+ShivamDube,RR,Left hand Bat,Right arm Medium,All rounder
+AnujRawat,RR,Left hand Bat,Not Bowling,Wicketkeeper
+GlennPhillips,RR,Right hand Bat,Right arm Offbreak,All rounder
+RahulTewatia,RR,Left hand Bat,Legbreak,All rounder
+ChrisMorris,RR,Right hand Bat,Right arm Fast medium,All rounder
+JaydevUnadkat,RR,Right hand Bat,Left arm Medium,Bowler
+ChetanSakariya,RR,Left hand Bat,Left arm Medium fast,Bowler
+MustafizurRahman,RR,Left hand Bat,Left arm Fast medium,Bowler
+KLRahul,PK,Right hand Bat,Not Bowling,Wicketkeeper
+MayankAgarwal,PK,Right hand Bat,Right arm Offbreak,Top Order Batter
+SarfarazKhan,PK,Right hand Bat,Legbreak,Middle order Batter
+MShahrukhKhan,PK,Right hand Bat,Right arm Offbreak,Middle Order Batter
+AidenMarkram,PK,Right hand Bat,Right arm Offbreak,Top Order Batter
+MoisesHenriques,PK,Right hand Bat,Right arm Fast medium,All rounder
+MohammedShami,PK,Right hand Bat,Right arm Fast,Bowler
+HarpreetBrar,PK,Left hand Bat,Slow Left arm Orthodox,Bowler
+ArshdeepSingh,PK,Left hand Bat,Left arm Medium fast,Bowler
+ChrisJordan,PK,Right hand Bat,Right arm Fast medium,Bowler
+RaviBishnoi,PK,Right hand Bat,Legbreak Googly,Bowler
+KaneWilliamson,SRH,Right hand Bat,Right arm Offbreak,Top order Batter
+BhuvneshwarKumar,SRH,Right hand Bat,Right arm Medium,Bowler
+EvinLewis,RR,Left hand Bat,Not Bowling,Top Order Batter
+DavidMiller,RR,Left hand Bat,Right arm Offbreak,Middle order Batter
+ShreyasGopal,RR,Right hand Bat,Legbreak,All rounder
+KuldipYadav,RR,Left hand Bat,Left arm Fast medium,Bowler
+JayantYadav,MI,Right hand Bat,Right arm Offbreak,Bowler
+TimSouthee,KKR,Right hand Bat,Right arm Medium fast,Bowler
+NicholasPooran,PK,Left hand Bat,Right arm Offbreak,Wicketkeeper
+SureshRaina,CSK,Left hand Bat,Right arm Offbreak,Middle order Batter
+AkashSingh,RR,Right hand Bat,Left arm Medium fast,Bowler
+MayankMarkande,RR,Right hand Bat,Legbreak,Bowler
+SamCurran,CSK,Left hand Bat,Left arm Medium fast,All rounder
+KMAsif,CSK,Right hand Bat,Right arm Medium,Bowler
+QuintondeKock,MI,Left hand Bat,Not Bowling,Wicketkeeper
+SaurabhTiwary,MI,Left hand Bat,Not Bowling,Top order Batter
+StevenSmith,DC,Right hand Bat,Legbreak Googly,Top order Batter
+TimSeifert,KKR,Right hand Bat,Not Bowling,Wicketkeeper
+DeepakHooda,PK,Right hand Bat,Right arm Offbreak,All rounder
+FabianAllen,PK,Right hand Bat,Slow Left arm Orthodox,All rounder
+NathanEllis,PK,Right hand Bat,Right arm Fast medium,Bowler
+SandeepSharma,SRH,Right hand Bat,Right arm Medium,Bowler
+MahipalLomror,RR,Left hand Bat,Slow Left arm Orthodox,All rounder
+RiyanParag,RR,Right hand Bat,Legbreak,Top order Batter
+KartikTyagi,RR,Right hand Bat,Right arm Fast,Bowler
+MandeepSingh,PK,Right hand Bat,Right arm Medium,All rounder
+ChrisGayle,PK,Left hand Bat,Right arm Offbreak,All rounder
+RahulChahar,MI,Right hand Bat,Legbreak Googly,Bowler
+LalitYadav,DC,Right hand Bat,Right arm Offbreak,All rounder
+SandeepWarrier,KKR,Right hand Bat,Right arm Medium,Bowler
+KyleJamieson,RCB,Right hand Bat,Right arm Fast medium,Bowler
+AdamMilne,MI,Right hand Bat,Right arm Fast,Bowler
+AndreRussell,KKR,Right hand Bat,Right arm Fast,All rounder
+PrasidhKrishna,KKR,Right hand Bat,Right arm Fast medium,Bowler
+DavidWarner,SRH,Left hand Bat,Legbreak,Top Order Batter
+KedarJadhav,SRH,Right hand Bat,Right arm Offbreak,All rounder
+KhaleelAhmed,SRH,Right hand Bat,Left arm Fast medium,Bowler
+TabraizShamsi,RR,Right hand Bat,Left arm Wrist spin,Bowler
+TimDavid,RCB,Right hand Bat,Right arm Offbreak,Middle order Batter
+WaninduHasaranga,RCB,Right hand Bat,Legbreak,All rounder
+NavdeepSaini,RCB,Right hand Bat,Right arm Fast,Bowler
+IshanPorel,PK,Right hand Bat,Right arm Medium,Bowler
+AdilRashid,PK,Right hand Bat,Legbreak,Bowler
+SachinBaby,RCB,Left hand Bat,Right arm Offbreak,Middle Order Batter
+AnmolpreetSingh,MI,Right hand Bat,Right arm Offbreak,Middle Order Batter
+PrabhsimranSingh,PK,Right hand Bat,Not Bowling,Wicketkeeper
+DawidMalan,PK,Left hand Bat,Legbreak,Top order Batter
+IshantSharma,DC,Right hand Bat,Right arm Fast medium,Bowler
+RileyMeredith,PK,Right hand Bat,Right arm Fast,Bowler
+JosButtler,RR,Right hand Bat,Not Bowling,Wicketkeeper
+JonnyBairstow,SRH,Right hand Bat,Right arm Medium,Wicketkeeper
+VijayShankar,SRH,Right hand Bat,Right arm Medium,All rounder
+DhawalKulkarni,MI,Right hand Bat,Right arm Medium,Bowler
+LungiNgidi,CSK,Right hand Bat,Right arm Fast medium,Bowler
+RajatPatidar,RCB,Right hand Bat,Right arm Offbreak,Top order Batter
+DanielSams,RCB,Right hand Bat,Left arm Fast medium,All rounder
+PatCummins,KKR,Right hand Bat,Right arm Fast,Bowler
+JagadeeshaSuchith,SRH,Left hand Bat,Slow Left arm Orthodox,Bowler
+WashingtonSundar,RCB,Left hand Bat,Right arm Offbreak,All rounder
+AmitMishra,DC,Right hand Bat,Legbreak,Bowler
+ImranTahir,CSK,Right hand Bat,Legbreak Googly,Bowler
+MananVohra,RR,Right hand Bat,Right arm Medium,Top Order Batter
+KaneRichardson,RCB,Right hand Bat,Right arm Fast medium,Bowler
+KamleshNagarkoti,KKR,Right hand Bat,Right arm Fast,Bowler
+MuruganAshwin,PK,Right hand Bat,Legbreak Googly,Bowler
+ChrisWoakes,DC,Right hand Bat,Right arm Fast medium,All rounder
+LukmanMeriwala,DC,Left hand Bat,Left arm Fast medium,Bowler
+JalajSaxena,PK,Right hand Bat,"Right arm Offbreak, Legbreak Googly",All rounder
+JhyeRichardson,PK,Right hand Bat,Right arm Fast,Bowler
+HarbhajanSingh,KKR,Right hand Bat,Right arm Offbreak,Bowler
+ViratSingh,SRH,Left hand Bat,Legbreak Googly,Top order Batter
+MujeebUrRahman,SRH,Right hand Bat,Right arm Offbreak,Bowler
+AjinkyaRahane,DC,Right hand Bat,Right arm Medium,Top order Batter
+ShahbazNadeem,SRH,Right hand Bat,Slow Left arm Orthodox,Bowler
+TNatarajan,SRH,Left hand Bat,Left arm Medium,Bowler
+MarcoJansen,MI,Right hand Bat,Left arm Medium fast,All rounder
+BenStokes,RR,Left hand Bat,Right arm Fast medium,All rounder
+ChrisLynn,MI,Right hand Bat,Slow Left arm Orthodox,Top order Batter
+ObedMcCoy,RR,Left hand Bat,Left arm Fast medium,Bowler
+MatthewWade,GT,Left hand Bat,Right arm Medium,Wicketkeeper
+YashDayal,GT,Right hand Bat,Left arm Medium fast,Bowler
+SaiKishore,GT,Left hand Bat,Slow Left arm Orthodox,Bowler
+DushmanthaChameera,LSG,Right hand Bat,Right arm Fast,Bowler
+MohsinKhan,LSG,Left hand Bat,Left arm Medium fast,Bowler
+AlzarriJoseph,GT,Right hand Bat,Right arm Fast,Bowler
+RomarioShepherd,SRH,Right hand Bat,Right arm Fast medium,All rounder
+JiteshSharma,PK,Right hand Bat,Not Bowling,Wicketkeeper
+PrerakMankad,PK,Right hand Bat,Right arm Medium,All rounder
+FazalhaqFarooqi,SRH,Right hand Bat,Left arm Fast medium,Bowler
+MitchellMarsh,DC,Right hand Bat,Right arm Medium,All rounder
+RovmanPowell,DC,Right hand Bat,Right arm Medium fast,Middle order Batter
+KuldeepYadav,DC,Left hand Bat,Left arm Wrist spin,Bowler
+DewaldBrevis,MI,Right hand Bat,Legbreak,All rounder
+TilakVarma,MI,Left hand Bat,Right arm Offbreak,All rounder
+RamandeepSingh,MI,Right hand Bat,Right arm Medium,Middle order Batter
+HrithikShokeen,MI,Right hand Bat,Right arm Offbreak,Bowler
+DevonConway,CSK,Left hand Bat,Right arm Medium,Wicketkeeper
+NarayanJagadeesan,CSK,Right hand Bat,Not Bowling,Top Order Batter
+MitchellSantner,CSK,Left hand Bat,Slow Left arm Orthodox,All rounder
+SimarjeetSingh,CSK,Right hand Bat,Right arm Medium fast,Bowler
+MukeshChoudhary,CSK,Left hand Bat,Left arm Medium,Bowler
+MatheeshaPathirana,CSK,Right hand Bat,Right arm Fast,Bowler
+PrashantSolanki,CSK,Right hand Bat,Legbreak,Bowler
+AbhijeetTomar,KKR,Right hand Bat,Right arm Offbreak,Top Order Batter
+SamBillings,KKR,Right hand Bat,Not Bowling,Wicketkeeper
+RinkuSingh,KKR,Left hand Bat,Right arm Offbreak,Middle order Batter
+UmeshYadav,KKR,Right hand Bat,Right arm Fast,Bowler
+KrishnappaGowtham,LSG,Right hand Bat,Right arm Offbreak,All rounder
+TristanStubbs,MI,Right hand Bat,Right arm Offbreak,Wicketkeeper
+SanjayYadav,MI,Left hand Bat,Slow Left arm Orthodox,All rounder
+BhanukaRajapaksa,PK,Left hand Bat,Right arm Medium,Top order Batter
+RishiDhawan,PK,Right hand Bat,Right arm Medium fast,All rounder
+AyushBadoni,LSG,Right hand Bat,Right arm Offbreak,Middle order Batter
+ShashankSingh,SRH,Right hand Bat,"Right arm Medium, Right arm Offbreak",All rounder
+MaheeshTheekshana,CSK,Right hand Bat,Right arm Offbreak,Bowler
+KumarKartikeya,MI,Right hand Bat,"Slow Left arm Orthodox, Left arm Wrist spin",Bowler
+RassievanderDussen,RR,Right hand Bat,Legbreak,Top order Batter
+KuldeepSen,RR,Right hand Bat,Right arm Fast,Bowler
+KaranSharma,LSG,Right hand Bat,Right arm Offbreak,All rounder
+SheldonJackson,KKR,Right hand Bat,Not Bowling,Wicketkeeper
+BabaIndrajith,KKR,Right hand Bat,Legbreak Googly,Top order Batter
+AaronFinch,KKR,Right hand Bat,Slow Left arm Orthodox,Top order Batter
+AnukulRoy,KKR,Left hand Bat,Slow Left arm Orthodox,All rounder
+HarshitRana,KKR,Right hand Bat,Right arm Fast,Bowler
+SaiSudharsan,GT,Left hand Bat,Legbreak,Top order Batter
+PradeepSangwan,GT,Right hand Bat,Left arm Medium,Bowler
+SeanAbbott,SRH,Right hand Bat,Right arm Fast medium,All rounder
+DwainePretorius,CSK,Right hand Bat,Right arm Medium fast,All rounder
+KarunNair,RR,Right hand Bat,Right arm Offbreak,Top order Batter
+DarylMitchell,RR,Right hand Bat,Right arm Medium,All rounder
+AbhinavManohar,GT,Right hand Bat,Legbreak Googly,All rounder
+SuyashPrabhudessai,RCB,Right hand Bat,Right arm Medium,All rounder
+VaibhavArora,PK,Right hand Bat,Right arm Fast medium,Bowler
+OdeanSmith,PK,Right hand Bat,Right arm Fast medium,All rounder
+TymalMills,MI,Right hand Bat,Left arm Fast,Bowler
+AmanHakimKhan,KKR,Right hand Bat,Right arm Medium,All rounder
+BasilThampi,MI,Right hand Bat,Right arm Fast medium,Bowler
+AkashDeep,RCB,Right hand Bat,Right arm Fast medium,All rounder
+DarshanNalkande,GT,Right hand Bat,Right arm Fast medium,Bowler
+RasikhSalam,KKR,Right hand Bat,Right arm Medium,Bowler
+DavidWilley,RCB,Left hand Bat,Left arm Fast medium,All rounder
+AndrewTye,LSG,Right hand Bat,Right arm Medium fast,Bowler
+SherfaneRutherford,RCB,Left hand Bat,Right arm Fast medium,Middle order Batter
+VarunAaron,GT,Right hand Bat,Right arm Fast,Bowler
+RajBawa,PK,Left hand Bat,Right arm Medium fast,All rounder
+TusharDeshpande,CSK,Left hand Bat,Right arm Medium,Bowler
+NoorAhmad,GT,Right hand Bat,Left arm Wrist spin,Bowler
+JoshLittle,GT,Right hand Bat,Left arm Fast medium,Bowler
+MohitSharma,GT,Right hand Bat,Right arm Medium,Bowler
+NehalWadhera,MI,Left hand Bat,Legbreak,Top order Batter
+CameronGreen,MI,Right hand Bat,Right arm Fast medium,All rounder
+VishnuVinod,MI,Right hand Bat,Not Bowling,Wicketkeeper
+JasonBehrendorff,MI,Right hand Bat,Left arm Fast medium,Bowler
+AkashMadhwal,MI,Right hand Bat,Right arm Medium fast,Bowler
+KyleMayers,LSG,Left hand Bat,Right arm Medium,All rounder
+Naveen-ul-Haq,LSG,Right hand Bat,Right arm Medium fast,Bowler
+YashThakur,LSG,Right hand Bat,Right arm Fast medium,Bowler
+DasunShanaka,GT,Right hand Bat,Right arm Medium,All rounder
+MichaelBracewell,RCB,Left hand Bat,Right arm Offbreak,All rounder
+WayneParnell,RCB,Left hand Bat,Left arm Medium fast,Bowler
+VijaykumarVyshak,RCB,Right hand Bat,Right arm Medium,Bowler
+HimanshuSharma,RCB,Right hand Bat,Legbreak,Bowler
+VivrantSharma,SRH,Left hand Bat,Legbreak Googly,All rounder
+HeinrichKlaasen,SRH,Right hand Bat,Right arm Offbreak,Wicketkeeper
+HarryBrook,SRH,Right hand Bat,Right arm Medium,Top Order Batter
+SanvirSingh,SRH,Right hand Bat,Right arm Medium,All rounder
+NitishKumarReddy,SRH,Right hand Bat,Right arm Medium fast,All rounder
+MayankDagar,SRH,Right hand Bat,Slow Left arm Orthodox,Bowler
+RahmanullahGurbaz,KKR,Right hand Bat,Not Bowling,Wicketkeeper
+SuyashSharma,KKR,Right hand Bat,Legbreak Googly,Bowler
+PhilSalt,DC,Right hand Bat,Right arm Offbreak,Wicketkeeper
+RileeRossouw,DC,Left hand Bat,Right arm Offbreak,Top order Batter
+YashDhull,DC,Right hand Bat,Right arm Offbreak,Top order Batter
+AtharvaTaide,PK,Left hand Bat,Slow Left arm Orthodox,All rounder
+DhruvJurel,RR,Right hand Bat,Not Bowling,Wicketkeeper
+AdamZampa,RR,Right hand Bat,Legbreak Googly,Bowler
+KarnSharma,RCB,Left hand Bat,Legbreak Googly,Bowler
+MukeshKumar,DC,Right hand Bat,Right arm Medium,Bowler
+SwapnilSingh,LSG,Right hand Bat,Slow Left arm Orthodox,Bowler
+JoeRoot,RR,Right hand Bat,"Right arm Offbreak, Legbreak",Top order Batter
+SikandarRaza,PK,Right hand Bat,Right arm Offbreak,All rounder
+PraveenDubey,DC,Right hand Bat,Legbreak Googly,Bowler
+YudhvirSingh,LSG,Right hand Bat,Right arm Medium fast,Bowler
+ArshadKhan,MI,Left hand Bat,Left arm Medium,Bowler
+JofraArcher,MI,Right hand Bat,Right arm Fast,Bowler
+RaghavGoyal,MI,Left hand Bat,Left arm Wrist spin,Bowler
+MatthewShort,PK,Right hand Bat,Right arm Offbreak,Top order Batter
+AkealHosein,SRH,Left hand Bat,Slow Left arm Orthodox,Bowler
+DavidWiese,KKR,Right hand Bat,Right arm Medium fast,All rounder
+GurnoorBrar,PK,Left hand Bat,Right arm Fast,Bowler
+ArjunTendulkar,MI,Left hand Bat,Left arm Medium fast,Bowler
+KulwantKhejroliya,KKR,Left hand Bat,Left arm Medium fast,Bowler
+AbdulBasith,RR,Right hand Bat,Right arm Offbreak,All rounder
+HarpreetSingh,PK,Left hand Bat,Right arm Medium,Middle Order Batter
+LittonDas,KKR,Right hand Bat,Right arm Offbreak,Wicketkeeper
+DuanJansen,MI,Right hand Bat,Left arm Fast,Bowler
+MarkWood,LSG,Right hand Bat,Right arm Fast,Bowler
+AbishekPorel,DC,Left hand Bat,Not Bowling,Wicketkeeper
+SisandaMagala,CSK,Right hand Bat,Right arm Fast medium,Bowler
+MohitRathee,PK,Right hand Bat,Legbreak,All rounder
+RajvardhanHangargekar,CSK,Right hand Bat,Right arm Fast medium,All rounder
+ReeceTopley,RCB,Right hand Bat,Left arm Fast medium,Bowler

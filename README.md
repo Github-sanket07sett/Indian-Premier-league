@@ -36,10 +36,22 @@ https://codebasics.io/challenge/codebasics-resume-project-challenge (challenge10
 #### Visualization with Power BI: Create interactive dashboards and visualizations using Power BI to present key metrics, trends, and patterns discovered during the analysis phase.
 
 ### Key insights:
-
-
-SQL queries for data extraction, transformation, and analysis.
-
-Power BI dashboards and reports showcasing insights on player performance, team dynamics, and match outcomes.
-
-Project documentation detailing methodologies, findings, and recommendations.
+#### TEAM INSIGHTS:
+1. CSK scored highest runs (7372).
+2. GT has best batting average with 32.28.
+3. CSK with highest batting strike rate 139.54.
+4. RR has highest boundary% (64.53%).
+#### BATTING INSIGHTS
+1. Gill scored 1851 in last 3 seasons.(2023 orange cup winner).
+2. Klassen has best strike rate (177.08).
+3. KL Rahul has best batting average(51).
+4. Green has highest Boundary%(65%).
+5. Faf hits 169 sixes in last 3 seasons.
+6. Gill hits 186 fours in last 3 seasons.
+#### BOWLING INSIGHTS
+1. Shami takes 67 wickets in last 3 seasons
+2. Sunil Narine has best economy 6.6
+3. Shami bowled 47.65% dot ball.
+4. Krunal pandya bowled with 23.42 bowling average.
+5. Chahal conceded most boundaries(82 4s+59 6s).
+    
